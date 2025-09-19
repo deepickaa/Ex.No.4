@@ -1,50 +1,74 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+## REGISTER NUMBER: 212223240024
 
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+## Aim
 
-Main Objectives:
+To write prompts for different prompt types and compare them across AI tools, then evaluate them using a rubric.
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+## Scenario & Use Case
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+Scenario: The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance.
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+Target Audience: Manufacturing companies in automotive, electronics, and food processing sectors.
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+## Objectives:
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+Improve production efficiency by 30%.
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+Minimize downtime using predictive maintenance.
 
+Enable real-time monitoring and remote control.
 
+Reduce energy consumption by optimizing processes.
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+Prompts for Each Type
+# 1. Comparative Analysis Prompt
+
+Definition: Asking for a comparison between two or more concepts.
+Prompt:
+“Compare and contrast traditional manual monitoring in manufacturing with IoT-enabled predictive maintenance in terms of efficiency, cost, and downtime.”
+
+# 2. Experiential Perspective Prompt
+
+Definition: Asking from the perspective of a specific role.
+Prompt:
+“As a factory manager, how would IoT-based predictive maintenance change your day-to-day operations compared to manual supervision?”
+
+# 3. Everyday Functioning Prompt
+
+Definition: Relating technology to everyday functioning.
+Prompt:
+“How does predictive maintenance in manufacturing work similarly to how car owners use service reminders or health apps track fitness?”
+
+# 4. Universal Prompt Structure
+
+Definition: Generalized templates like “Explain X with an example.”
+Prompt:
+“Explain predictive maintenance in simple terms with a step-by-step example from a manufacturing assembly line.”
+
+# 5. Prompt Size Limitations
+
+Definition: Large prompts broken into chunks.
+Prompt:
+“List 30 real-world applications of IoT in manufacturing. Give me 10 applications at a time with a brief explanation of each.”
+
+| Criteria         | Description                                                 | Example |
+| ---------------- | ----------------------------------------------------------- | ------- |
+| **Clarity**      | Is the prompt clear and unambiguous?                        | 5       |
+| **Relevance**    | Is it aligned with the use case (manufacturing automation)? | 5       |
+| **Depth**        | Does it encourage detailed AI responses?                    | 4       |
+| **Practicality** | Can the output be applied in real-world context?            | 5       |
+| **Scalability**  | Can it adapt for larger queries (size limitations)?         | 4       |
+
+| Prompt Type  | Clarity | Relevance | Depth | Practicality | Scalability | Avg Score |
+| ------------ | ------- | --------- | ----- | ------------ | ----------- | --------- |
+| Comparative  | 5       | 5         | 4     | 5            | 4           | 4.6       |
+| Experiential | 5       | 5         | 4     | 5            | 3           | 4.4       |
+| Everyday     | 4       | 4         | 3     | 4            | 3           | 3.6       |
+| Universal    | 5       | 5         | 4     | 5            | 4           | 4.6       |
+| Size Limit   | 4       | 5         | 4     | 5            | 5           | 4.6       |
+
+## Result
+
+The various types of prompts (Comparative, Experiential, Everyday Functioning, Universal, and Size Limitation) were successfully generated and evaluated using rubrics. The evaluation shows that Comparative, Universal, and Size-Limited prompts performed best for clarity and practical AI outputs.
